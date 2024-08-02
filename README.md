@@ -1,2 +1,2 @@
 # Book-Review-Analysis
-A Neural Network Model to do Analyze Book Reviews as either positive or negative
+A NLP model doing analysis on Book Reviews to see if they are positive or negative reviews. This use a TF-IDF vectorizer and then a fully connected Neural Network. 
